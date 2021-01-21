@@ -29,7 +29,6 @@ Contributions are always welcome! Thanks to all contributors, you're awesome and
     - [Links](#links)
 
 
-
 ## Generic Host & Web Host
 
 ### Links
