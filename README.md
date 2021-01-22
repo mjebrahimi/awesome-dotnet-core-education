@@ -1,5 +1,5 @@
-# .Net-Core-Resources
-
+# Awesome .Net Core
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 > Useful resources about .Net Core and its related thechnologies. this repository will be updated continuously, keep yourself up to date 😉
 
 ## Give a Star! ⭐️
@@ -7,7 +7,7 @@ If you like or are using this repository to learn or start your solution, please
 
 ## Table of Contents
 
-- [.Net-Core-Resources](#.net-core-resources)
+- [Awesome DotNet Core](#Awesome-DotNet-Core)
   - [Generic Host & Web Host](#Generic-Host-&-Web-Host)
     - [Links](#links)
     - [Samples](#samples)
