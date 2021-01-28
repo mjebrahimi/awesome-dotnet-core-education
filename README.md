@@ -1,6 +1,6 @@
 # Awesome .Net Core [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Collection of useful articles, libraries, projects, frameworks, tools about .Net Core and its related thechnologies. this repository will update continuously, keep yourself up to date  😉
+> Collection of useful articles, libraries, projects, frameworks, tools about .Net Core and its related technologies, this repository will update continuously, keep yourself up to date. 😉
 
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-dotnet-core/blob/master/contributing.md) pages first.
@@ -16,15 +16,15 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   - [.Net5](#.Net5)
   - [.Net Standard](#.Net-Standard)
   - [Generic Host & Web Host](#Generic-Host-&-Web-Host)
-  - [LifeCycle ](#LifeCycle)
+  - [LifeCycle](#LifeCycle)
   - [Hosting](#Hosting)
   - [Kestrel](#Kestrel)
   - [Middleware](#Middleware)
   - [Configuration](#Configuration)
   - [Options Pattern](#Options-Pattern)
   - [Grpc](#Grpc)
-  - [WebSockets ](#WebSockets)
-  - [HttpClient ](#HttpClient)
+  - [WebSockets](#WebSockets)
+  - [HttpClient](#HttpClient)
   - [WEB API](#WEB-API)
   - [Hosted Service](#Hosted-Service)
   - [Test Host & WebApplicationFactory](#Test-Host-&-WebApplicationFactory)
@@ -33,7 +33,11 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   - [Mapping](#Mapping)
   - [Benchmarking](#Benchmarking)
 
+# License
 
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Mehdi Hadeli](https://github.com/mehdihadeli) has waived all copyright and related or neighboring rights to this work.
 
 ## .Net 5
 
@@ -74,10 +78,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [USING HOSTBUILDER AND THE GENERIC HOST IN .NET CORE MICROSERVICES](https://www.stevejgordon.co.uk/using-generic-host-in-dotnet-core-console-based-microservices)
 
 - [Generic Host Builder in ASP .NET Core 3.1](https://wakeupandcode.com/generic-host-builder-in-asp-net-core-3-1/)
-
-- [The ASP.NET Core Generic Host: namespace clashes and extension methods](https://andrewlock.net/the-asp-net-core-generic-host-namespace-clashes-and-extension-methods/)
-
-- [Introducing IHostLifetime and untangling the Generic Host startup interactions](https://andrewlock.net/introducing-ihostlifetime-and-untangling-the-generic-host-startup-interactions/)
 
 - [The ASP.NET Core Generic Host: namespace clashes and extension methods](https://andrewlock.net/the-asp-net-core-generic-host-namespace-clashes-and-extension-methods/)
 
@@ -287,17 +287,11 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 - [Using custom appsettings.json with ASP.NET Core integration tests](https://gunnarpeipman.com/aspnet-core-integration-tests-appsettings/)
 
-#### Samples
-
-- [https://github.com/andrewlock/blog-examples/tree/master/updating-test-host-to-3-0](https://github.com/andrewlock/blog-examples/tree/master/updating-test-host-to-3-0)
-
 
 
 ## Routing
 
 #### Articles
-
-- [Converting a terminal middleware to endpoint routing in ASP.NET Core 3.0](https://andrewlock.net/converting-a-terminal-middleware-to-endpoint-routing-in-aspnetcore-3/)
 
 
 
@@ -339,12 +333,4 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Benchmarking C# code using BenchmarkDotNet](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=EWmufbVF2A4)
 
 - [Analyzing performance with BenchmarkDotNet - ASP.NET Core: From 0 to overkill](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=8JOC8kN_WbU)
-
-
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Mehdi Hadeli](https://github.com/mehdihadeli) has waived all copyright and related or neighboring rights to this work.
 
