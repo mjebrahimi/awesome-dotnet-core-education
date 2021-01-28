@@ -14,28 +14,54 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## Contents
 
 - [Awesome Dotnet Core](#Awesome-Dotnet-Core)
+  - [.Net5](#.Net5)
+    - [Articles](#Articles)
+  - [.Net Standard](#.Net-Standard)
+    - [Articles](#Articles)
   - [Generic Host & Web Host](#Generic-Host-&-Web-Host)
-    - [Links](#links)
-    - [Samples](#samples)
-  - [Hosted Service](#Hosted-Service)
-    - [Links](#links)
-  - [Test Host & WebApplicationFactory](#Test-Host-&-WebApplicationFactory)
-    - [Links](#links)
+    - [Articles](#Articles)
+    - [Samples](#Samples)
+  - [LifeCycle ](#LifeCycle)
+    - [Articles](#Articles)
   - [Hosting](#Hosting)
-    - [Links](#links)
+    - [Articles](#Articles)
   - [Kestrel](#Kestrel)
-    - [Links](#links)
+    - [Articles](#Articles)
   - [Middleware](#Middleware)
-    - [Links](#links)
+    - [Articles](#Articles)
+  - [Configuration](#Configuration)
+    - [Articles](#Articles)  
+    - [Libraries](#Libraries)  
+    - [Samples](#Samples)  
+  - [Options Pattern](#Options-Pattern)
+    - [Articles](#Articles)  
+  - [Grpc](#Grpc)
+    - [Articles](#Articles)
+  - [WebSockets ](#WebSockets)
+    - [Articles](#Articles)
+  - [HttpClient ](#HttpClient)
+    - [Articles](#Articles)  
+  - [WEB API](#WEB-API )
+    - [Articles](#Articles)
+    - [Samples](#Samples)
+  - [Hosted Service](#Hosted-Service)
+    - [Articles](#Articles)
+  - [Test Host & WebApplicationFactory](#Test-Host-&-WebApplicationFactory)
+    - [Articles](#Articles)
+    - [Samples](#Samples)  
   - [Routing](#Routing)
-    - [Links](#links)
-  - [Dependency Injection](#dependency-injection)
-    - [Links](#links)
-
+    - [Articles](#Articles)
+  - [Dependency Injection](#Dependency-Injection)
+    - [Articles](#Articles)
+  - [Mapping](#Mapping)
+    - [Libraries](#Libraries)
+  - [Benchmarking](#Benchmarking)
+    - [Libraries](#Librarie)
+    - [Videos](#Videos)
 
 ## .Net 5
 
-### Links
+### Articles
 
 [Announcing .NET 5.0 - DevBlogs](https://devblogs.microsoft.com/dotnet/announcing-net-5-0/)
 
@@ -51,7 +77,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## .Net Standard
 
-### Links
+### Articles
 
 [.NET Standard - Microsoft](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
 
@@ -63,7 +89,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Generic Host & Web Host
 
-### Links
+### Articles
 
 - [ASP.NET Core Web Host](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/web-host?view=aspnetcore-5.0)
 
@@ -105,7 +131,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## LifeCycle 
 
-### Links
+### Articles
 
 - [ASP.NET CORE ANATOMY – HOW DOES USESTARTUP WORK?](https://www.stevejgordon.co.uk/aspnet-core-anatomy-how-does-usestartup-work)
 
@@ -115,15 +141,11 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 - [ASP.NET CORE ANATOMY (PART 4) – INVOKING THE MVC MIDDLEWARE](https://www.stevejgordon.co.uk/invoking-mvc-middleware-asp-net-core-anatomy-part-4)
 
-### Links
-
-- [ASP.NET CORE ANATOMY – HOW DOES USESTARTUP WORK?](https://www.stevejgordon.co.uk/aspnet-core-anatomy-how-does-usestartup-work)
-
 
 
 ## Hosting
 
-### Links
+### Articles
 
 - [5 ways to set the URLs for an ASP.NET Core app](https://andrewlock.net/5-ways-to-set-the-urls-for-an-aspnetcore-app/)
 
@@ -137,7 +159,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Kestrel
 
-### Links
+### Articles
 
 - [Kestrel web server implementation in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/servers/kestrel?view=aspnetcore-5.0)
 
@@ -147,7 +169,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Middleware
 
-### Links
+### Articles
 
 - [DEEP DIVE: HOW IS THE ASP.NET CORE MIDDLEWARE PIPELINE BUILT?](https://www.stevejgordon.co.uk/how-is-the-asp-net-core-middleware-pipeline-built)
 
@@ -169,7 +191,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Configuration
 
-### Links
+### Articles
 
 - [Configure ASP.NET Core MVC](https://www.programmingwithwolfgang.com/configure-asp-net-core-mvc/)
 
@@ -183,7 +205,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 - [Customizing ASP.​NET Core Part 02: Configuration](https://asp.net-hacker.rocks/2018/09/24/customizing-aspnetcore-02-configuration.html)
 
-### Library
+### Libraries
 
 - [NetEscapades.Configuration](https://github.com/andrewlock/NetEscapades.Configuration)
 
@@ -196,7 +218,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Options pattern
 
-### Links
+### Articles
 
 - [Options pattern in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/options?view=aspnetcore-5.0)
 
@@ -206,14 +228,14 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Grpc
 
-### Links
+### Articles
 
 
 
 
 ## WebSockets 
 
-### Links
+### Articles
 
 - [Understanding WebSockets with ASP.NET Core](https://sahansera.dev/understanding-websockets-with-aspnetcore-5/)
 
@@ -225,7 +247,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## SignalR
 
-### Links
+### Articles
 
 - [Use streaming in ASP.NET Core SignalR](https://docs.microsoft.com/en-us/aspnet/core/signalr/streaming?view=aspnetcore-5.0)
 
@@ -233,7 +255,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## HttpClient
 
-### Links
+### Articles
 
 - [SENDING AND RECEIVING JSON USING HTTPCLIENT WITH SYSTEM.NET.HTTP.JSON](https://www.stevejgordon.co.uk/sending-and-receiving-json-using-httpclient-with-system-net-http-json)
 
@@ -243,7 +265,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## WEB API
 
-### Links
+### Articles
 
 - [ASP.NET Core 5 Route to Code: Taking advantage of Microsoft.AspNetCore.Http json extensions](https://anthonygiretti.com/2020/09/29/asp-net-core-5-route-to-code-taking-advantage-of-microsoft-aspnetcore-http-json-extensions/)
 
@@ -267,7 +289,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Hosted Service
 
-### Links
+### Articles
 
 - [IMPLEMENTING IHOSTEDSERVICE IN ASP.NET CORE 2.0](https://www.stevejgordon.co.uk/asp-net-core-2-ihostedservice)
 
@@ -281,7 +303,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Test Host & WebApplicationFactory
 
-### Links
+### Articles
 
 - [Converting integration tests to .NET Core 3.0](https://andrewlock.net/converting-integration-tests-to-net-core-3/)
 
@@ -297,7 +319,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Routing
 
-### Links
+### Articles
 
 - [Converting a terminal middleware to endpoint routing in ASP.NET Core 3.0](https://andrewlock.net/converting-a-terminal-middleware-to-endpoint-routing-in-aspnetcore-3/)
 
@@ -305,7 +327,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Dependency Injection
 
-### Links
+### Articles
 
 - [Having Fun with Microsoft IoC Container for .NET Core](https://sahansera.dev/dotnet-core-ioc-container/)
 
@@ -317,7 +339,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Mapping
 
-### Library 
+### Libraries 
 
 - [Mapster](https://github.com/MapsterMapper/Mapster)
 > A fast, fun and stimulating object to object Mapper. 
@@ -331,7 +353,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Benchmarking
 
-### Library
+### Libraries
 
 [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
 > Powerful .NET library for benchmarking
@@ -344,7 +366,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 
 
-# License
+## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
