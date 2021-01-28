@@ -1,6 +1,4 @@
-# Awesome .Net Core Education!
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome .Net Core Education [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Collection of useful articles and resources to learning and practicing about .Net Core and its related technologies. this repository will update continuously, keep yourself up to date. 😉
 
@@ -12,16 +10,9 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https://www.linkedin.com/in/mehdihadeli/) or [Twitter](https://twitter.com/mehdi_hadeli)!
 
 
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Mehdi Hadeli](https://github.com/mehdihadeli) has waived all copyright and related or neighboring rights to this work.
-
-
 ## Contents
 
-* [Awesome Dotnet Core Education](#awesome-dotnet-core-education)
+* [Awesome .Net Core Education](#awesome-.net-core-education)
   * [.Net5](#.net5)
   * [.Net Standard](#.net-standard)
   * [Generic Host & Web Host](#generic-host-&-web-host)
@@ -41,7 +32,6 @@ To the extent possible under law, [Mehdi Hadeli](https://github.com/mehdihadeli)
   * [Dependency Injection](#dependency-injection)
   * [Mapping](#mapping)
   * [Benchmarking](#benchmarking)
-
 
 
 ## .Net 5
@@ -339,3 +329,10 @@ To the extent possible under law, [Mehdi Hadeli](https://github.com/mehdihadeli)
 
 * [Analyzing performance with BenchmarkDotNet - ASP.NET Core: From 0 to overkill](https://www.youtube.com/watch?v=8JOC8kN_WbU)
 
+
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Mehdi Hadeli](https://github.com/mehdihadeli) has waived all copyright and related or neighboring rights to this work.
