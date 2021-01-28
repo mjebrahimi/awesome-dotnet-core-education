@@ -1,18 +1,19 @@
-# Awesome .Net Core [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome .Net Core Education [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Collection of useful articles, libraries, projects, frameworks, tools about .Net Core and its related technologies, this repository will update continuously, keep yourself up to date. 😉
+> Collection of useful articles and resources to learning and practicing about .Net Core and its related technologies. this repository will update continuously, keep yourself up to date. 😉
 
 
-Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-dotnet-core/blob/master/contributing.md) pages first.
+Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-dotnet-core-education/blob/master/contributing.md) pages first.
 
-Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
+Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-education/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
 Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https://www.linkedin.com/in/mehdihadeli/) or [Twitter](https://twitter.com/mehdi_hadeli)!
 
 
+
 ## Contents
 
-- [Awesome Dotnet Core](#Awesome-Dotnet-Core)
+- [Awesome Dotnet Core Education](#Awesome-Dotnet-Core-Education)
   - [.Net5](#.Net5)
   - [.Net Standard](#.Net-Standard)
   - [Generic Host & Web Host](#Generic-Host-&-Web-Host)
@@ -316,9 +317,9 @@ To the extent possible under law, [Mehdi Hadeli](https://github.com/mehdihadeli)
 
 #### Videos
 
-- [Mapster, the best .NET mapper that you are (probably) not using](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=UIslFVEHkzA&feature=share)
+- [Mapster, the best .NET mapper that you are (probably) not using](https://www.youtube.com/watch?v=UIslFVEHkzA)
 
-- [Domain to Contract mapping with Automapper | ASP.NET Core 5 REST API Tutorial 20](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=1Dz5Lfo6mqo)
+- [Domain to Contract mapping with Automapper | ASP.NET Core 5 REST API Tutorial 20](https://www.youtube.com/watch?v=1Dz5Lfo6mqo)
 
 
 ## Benchmarking
@@ -330,7 +331,7 @@ To the extent possible under law, [Mehdi Hadeli](https://github.com/mehdihadeli)
 
 #### Videos
 
-- [Benchmarking C# code using BenchmarkDotNet](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=EWmufbVF2A4)
+- [Benchmarking C# code using BenchmarkDotNet](https://www.youtube.com/watch?v=EWmufbVF2A4)
 
-- [Analyzing performance with BenchmarkDotNet - ASP.NET Core: From 0 to overkill](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=8JOC8kN_WbU)
+- [Analyzing performance with BenchmarkDotNet - ASP.NET Core: From 0 to overkill](https://www.youtube.com/watch?v=8JOC8kN_WbU)
 
