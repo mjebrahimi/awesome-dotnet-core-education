@@ -10,6 +10,12 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https://www.linkedin.com/in/mehdihadeli/) or [Twitter](https://twitter.com/mehdi_hadeli)!
 
 
+# License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Mehdi Hadeli](https://github.com/mehdihadeli) has waived all copyright and related or neighboring rights to this work.
+
 
 # Contents
 
@@ -34,11 +40,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   - [Mapping](#Mapping)
   - [Benchmarking](#Benchmarking)
 
-# License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Mehdi Hadeli](https://github.com/mehdihadeli) has waived all copyright and related or neighboring rights to this work.
 
 ## .Net 5
 
