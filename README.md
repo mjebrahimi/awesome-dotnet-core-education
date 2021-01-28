@@ -1,18 +1,18 @@
-# Awesome .Net Core [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome .Net Core Education [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Collection of useful articles, libraries, projects, frameworks, tools about .Net Core and its related thechnologies. this repository will update continuously, keep yourself up to date  😉
 
 
-Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-dotnet-core/blob/master/contributing.md) pages first.
+Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-dotnet-core-education/blob/master/contributing.md) pages first.
 
-Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
+Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-education/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
 Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https://www.linkedin.com/in/mehdihadeli/) or [Twitter](https://twitter.com/mehdi_hadeli)!
 
 
 ## Contents
 
-- [Awesome Dotnet Core](#Awesome-Dotnet-Core)
+- [Awesome Dotnet Core Education](#Awesome-Dotnet-Core-Education)
   - [.Net5](#.Net5)
   - [.Net Standard](#.Net-Standard)
   - [Generic Host & Web Host](#Generic-Host-&-Web-Host)
