@@ -11,8 +11,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 
 ## Contents
-
-
   * [.Net5](#.net5)
   * [.Net Standard](#.net-standard)
   * [Generic Host & Web Host](#generic-host-&-web-host)
