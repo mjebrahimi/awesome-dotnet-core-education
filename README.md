@@ -2,7 +2,6 @@
 
 > Collection of useful articles, libraries, projects, frameworks, tools about .Net Core and its related thechnologies. this repository will update continuously, keep yourself up to date  😉
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet](https://github.com/quozd/awesome-dotnet).
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-dotnet-core/blob/master/contributing.md) pages first.
 
