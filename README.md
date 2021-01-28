@@ -11,7 +11,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 
 
-## Contents
+# Contents
 
 - [Awesome Dotnet Core Education](#Awesome-Dotnet-Core-Education)
   - [.Net5](#.Net5)
