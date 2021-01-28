@@ -329,10 +329,3 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 * [Analyzing performance with BenchmarkDotNet - ASP.NET Core: From 0 to overkill](https://www.youtube.com/watch?v=8JOC8kN_WbU)
 
-
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Mehdi Hadeli](https://github.com/mehdihadeli) has waived all copyright and related or neighboring rights to this work.
