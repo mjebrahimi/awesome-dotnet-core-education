@@ -25,7 +25,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [HttpClient](#httpclient)
 * [WEB API](#web-api)
 * [Hosted Service](#hosted-service)
-* [Test Host & WebApplicationFactory](#test-host-&-webapplicationfactory)
+* [Test Host And WebApplicationFactory](#test-host-and-webapplicationfactory)
 * [Routing](#Routing)
 * [Dependency Injection](#dependency-injection)
 * [Security](#security)
@@ -307,7 +307,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-## Test Host & WebApplicationFactory
+## Test Host And WebApplicationFactory
 
 ### 📝 Articles
 
