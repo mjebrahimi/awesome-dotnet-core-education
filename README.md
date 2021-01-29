@@ -26,7 +26,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [WEB API](#web-api)
 * [Hosted Service](#hosted-service)
 * [Test Host And WebApplicationFactory](#test-host-and-webapplicationfactory)
-* [Routing](#Routing)
+* [Routing](#routing)
 * [Dependency Injection](#dependency-injection)
 * [Security](#security)
 * [Environment](#environment)
