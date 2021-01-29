@@ -1,5 +1,6 @@
 # 🎨 Awesome .Net Core Education [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
+
 > Collection of useful 📝 Articles and resources to learning and practicing about .Net Core and its related technologies. this repository will update continuously, keep yourself up to date. 😉
 
 
