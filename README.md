@@ -281,7 +281,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 * [https://github.com/featherhttp/tutorial](https://github.com/featherhttp/tutorial)
 
-* [https://github.com/filipw/net50-webapi-🔖 Samples](https://github.com/filipw/net50-webapi-🔖 Samples)
+* [https://github.com/filipw/net50-webapi-samples](https://github.com/filipw/net50-webapi-samples)
 
 * [https://github.com/ardalis/ApiEndpoints](https://github.com/ardalis/ApiEndpoints)
 
