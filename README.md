@@ -10,7 +10,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-core-
 Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https://www.linkedin.com/in/mehdihadeli/) or [Twitter](https://twitter.com/mehdi_hadeli)!
 
 
-# Contents
+## Contents
 
 * [Awesome .Net Core Education](#awesome-.net-core-education)
   * [.Net5](#.net5)
