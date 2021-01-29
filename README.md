@@ -10,8 +10,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 
 ## Contents
-* [Awesome .Net Core Education](#awesome-.net-core-education)
-  * [.Net5](#.net-5)
+  * [DotNet5](#dotnet-5)
   * [.Net Standard](#.net-standard)
   * [Generic Host & Web Host](#generic-host-&-web-host)
   * [LifeCycle](#lifecycle)
@@ -35,7 +34,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 
 
-## .Net 5
+## DotNet 5
 
 ### 📝 Articles 
 
