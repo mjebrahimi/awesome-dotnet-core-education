@@ -11,7 +11,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Contents
 * [DotNet 5](#dotnet-5)
-* [.Net Standard](#.net-standard)
+* [DotNet Standard](#dotnet-standard)
 * [Generic Host & Web Host](#generic-host-&-web-host)
 * [LifeCycle](#lifecycle)
 * [Hosting](#hosting)
@@ -52,7 +52,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-## .Net Standard
+## DotNet Standard
 
 ### 📝 Articles
 
