@@ -1,4 +1,4 @@
-# Awesome .Net Core Education [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# 🎨 Awesome .Net Core Education [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Collection of useful 📝 Articles and resources to learning and practicing about .Net Core and its related technologies. this repository will update continuously, keep yourself up to date. 😉
 
@@ -51,7 +51,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 * [The Many Flavors of .NET - Sean Killeen](https://flavorsof.net)
 
-
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ## .Net Standard
 
@@ -63,7 +65,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 * [Big Changes in .NET 5, C# 9, and Visual Studio 2019 - IAmTimCorey](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=zjVgQNfAEOs)
 
-
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ## Generic Host & Web Host
 
@@ -101,7 +105,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 * [https://github.com/andrewlock/blog-examples/tree/master/updating-test-host-to-3-0](https://github.com/andrewlock/blog-examples/tree/master/updating-test-host-to-3-0)
 
-
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ## LifeCycle 
 
@@ -115,7 +121,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 * [ASP.NET CORE ANATOMY (PART 4) – INVOKING THE MVC MIDDLEWARE](https://www.stevejgordon.co.uk/invoking-mvc-middleware-asp-net-core-anatomy-part-4)
 
-
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ## Hosting
 
@@ -129,7 +137,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 * [Customizing ASP.NET Core Part 12: Hosting](https://asp.net-hacker.rocks/2019/04/29/customizing-aspnetcore-12-hosting.html)
 
-
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ## Kestrel
 
@@ -139,7 +149,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 * [.NET Core 3.0 AllowSynchronousIO Workaround](https://khalidabuhakmeh.com/dotnet-core-3-dot-0-allowsynchronousio-workaround)
 
-
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ## Middleware
 
@@ -161,7 +173,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 * [Customizing ASP.​NET Core Part 06: Middlewares](https://asp.net-hacker.rocks/2018/10/08/customizing-aspnetcore-06-middlewares.html)
 
-
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ## Configuration
 
@@ -188,7 +202,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 * [https://github.com/WolfgangOfner/MVC-Core-Configure](https://github.com/WolfgangOfner/MVC-Core-Configure)
 
-
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ## Options pattern
 
@@ -200,12 +216,19 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 * [Access services inside ConfigureServices using IConfigureOptions in ASP.NET Core](https://andrewlock.net/access-services-inside-options-and-startup-using-configureoptions/)
 
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
 ## Grpc
 
 #### 📝 Articles
 
 
-
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ## WebSockets 
 
@@ -217,7 +240,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 * [WebSockets support in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/websockets?view=aspnetcore-5.0)
 
-
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ## SignalR
 
@@ -225,7 +250,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 * [Use streaming in ASP.NET Core SignalR](https://docs.microsoft.com/en-us/aspnet/core/signalr/streaming?view=aspnetcore-5.0)
 
-
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ## HttpClient
 
@@ -235,7 +262,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 * [.NET 5: Exploring System.Net.Http.Json namespace](https://anthonygiretti.com/2020/10/03/net-5-exploring-system-net-http-json-namespace/)
 
-
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ## WEB API
 
@@ -259,7 +288,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 * [https://github.com/ardalis/ApiEndpoints](https://github.com/ardalis/ApiEndpoints)
 
-
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ## Hosted Service
 
@@ -274,6 +305,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Customizing ASP.​NET Core Part 05: HostedServices](https://asp.net-hacker.rocks/2018/10/04/customizing-aspnetcore-05-hostedservices.html)
 
 
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ## Test Host & WebApplicationFactory
 
@@ -286,9 +320,34 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Using custom appsettings.json with ASP.NET Core integration tests](https://gunnarpeipman.com/aspnet-core-integration-tests-appsettings/)
 
 
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ## Routing
 
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
+
+## Dependency Injection
+
+#### 📝 Articles
+
+* [Having Fun with Microsoft IoC Container for .NET Core](https://sahansera.dev/dotnet-core-ioc-container/)
+
+* [ASP. NET Core - Dependency-injection](https://girishgodage.in/blog/customize-dependency-injection)
+
+* [Customizing ASP.​NET Core Part 03: Dependency Injection](https://asp.net-hacker.rocks/2018/09/27/customizing-aspnetcore-03-dependency-injection.html)
+
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
+## Security
 
 ### Encryption	&& Data Protection
 
@@ -313,25 +372,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 * [Exploring the cookie authentication middleware in ASP.NET Core](https://andrewlock.net/exploring-the-cookieauthenticationmiddleware-in-asp-net-core/)
 
-
-## Dependency Injection
-
-#### 📝 Articles
-
-* [Having Fun with Microsoft IoC Container for .NET Core](https://sahansera.dev/dotnet-core-ioc-container/)
-
-* [ASP. NET Core - Dependency-injection](https://girishgodage.in/blog/customize-dependency-injection)
-
-* [Customizing ASP.​NET Core Part 03: Dependency Injection](https://asp.net-hacker.rocks/2018/09/27/customizing-aspnetcore-03-dependency-injection.html)
-
-
-
-## Security
-
-#### 📝 Articles
-
-* [Symmetric and Asymmetric Encryption in .NET Core](https://damienbod.com/2020/08/19/symmetric-and-asymmetric-encryption-in-net-core/)
-
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ## Environment
 
@@ -339,7 +382,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 * [How to set the hosting environment in ASP.NET Core](https://andrewlock.net/how-to-set-the-hosting-environment-in-asp-net-core/)
 
-
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ## Mapping
 
@@ -354,6 +399,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 * [Domain to Contract mapping with Automapper | ASP.NET Core 5 REST API Tutorial 20](https://www.youtube.com/watch?v=1Dz5Lfo6mqo)
 
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ## Benchmarking
 
@@ -368,3 +416,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 * [Analyzing performance with BenchmarkDotNet - ASP.NET Core: From 0 to overkill](https://www.youtube.com/watch?v=8JOC8kN_WbU)
 
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
