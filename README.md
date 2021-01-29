@@ -1,4 +1,4 @@
-# 🎨 Awesome .Net Core Education [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# 🎨 Awesome .Net Core Education [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 > Collection of useful 📝 Articles and resources to learning and practicing about .Net Core and its related technologies. this repository will update continuously, keep yourself up to date. 😉
 
