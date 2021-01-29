@@ -335,12 +335,23 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### 📝 Articles
 
+* [.NET Core Dependency Injection: Everything You Ought To Know](https://www.blog.jamesmichaelhickey.com/NET-Core-Dependency-Injection/)
+
 * [Having Fun with Microsoft IoC Container for .NET Core](https://sahansera.dev/dotnet-core-ioc-container/)
 
 * [ASP. NET Core - Dependency-injection](https://girishgodage.in/blog/customize-dependency-injection)
 
 * [Customizing ASP.​NET Core Part 03: Dependency Injection](https://asp.net-hacker.rocks/2018/09/27/customizing-aspnetcore-03-dependency-injection.html)
 
+* [ASP.NET CORE DEPENDENCY INJECTION – REGISTERING MULTIPLE IMPLEMENTATIONS OF AN INTERFACE](https://www.stevejgordon.co.uk/asp-net-core-dependency-injection-registering-multiple-implementations-interface)
+
+* [ASP.NET CORE DEPENDENCY INJECTION – HOW TO REGISTER GENERIC TYPES](https://www.stevejgordon.co.uk/asp-net-core-dependency-injection-how-to-register-generic-types)
+
+* [ASP.NET CORE DEPENDENCY INJECTION – REGISTERING IMPLEMENTATIONS USING DELEGATES](https://www.stevejgordon.co.uk/asp-net-core-dependency-injection-registering-implementations-using-delegates)
+
+* [ASP.NET Core and the Strategy Pattern](https://adamstorr.azurewebsites.net/blog/aspnetcore-and-the-strategy-pattern)
+
+* [6 Ways To Implement The Strategy Pattern In C# (Basic To Advanced)](https://www.blog.jamesmichaelhickey.com/strategy-pattern-implementations/)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
