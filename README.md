@@ -31,6 +31,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   * [Routing](#Routing)
   * [Dependency Injection](#dependency-injection)
   * [Security](#security)
+  * [Environment](#environment)
   * [Mapping](#mapping)
   * [Benchmarking](#benchmarking)
 
@@ -293,24 +294,24 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 #### 📝 Articles
 
-[Symmetric and Asymmetric Encryption in .NET Core](https://damienbod.com/2020/08/19/symmetric-and-asymmetric-encryption-in-net-core/)
+* [Symmetric and Asymmetric Encryption in .NET Core](https://damienbod.com/2020/08/19/symmetric-and-asymmetric-encryption-in-net-core/)
   
-[ENCRYPTING TEXTS FOR AN IDENTITY IN ASP.NET CORE RAZOR PAGES USING AES AND RSA](https://damienbod.com/2020/08/22/encrypting-texts-for-an-identity-in-asp-net-core-razor-pages-using-aes-and-rsa/)
+* [ENCRYPTING TEXTS FOR AN IDENTITY IN ASP.NET CORE RAZOR PAGES USING AES AND RSA](https://damienbod.com/2020/08/22/encrypting-texts-for-an-identity-in-asp-net-core-razor-pages-using-aes-and-rsa/)
 
-[USING DIGITAL SIGNATURES TO CHECK INTEGRITY OF CIPHER TEXTS IN ASP.NET CORE RAZOR PAGES](https://damienbod.com/2020/09/01/using-digital-signatures-to-check-integrity-of-cipher-texts-in-asp-net-core-razor-pages/)
+* [USING DIGITAL SIGNATURES TO CHECK INTEGRITY OF CIPHER TEXTS IN ASP.NET CORE RAZOR PAGES](https://damienbod.com/2020/09/01/using-digital-signatures-to-check-integrity-of-cipher-texts-in-asp-net-core-razor-pages/)
 
-[Configure ASP.NET Core Data Protection](https://docs.microsoft.com/en-us/aspnet/core/security/data-protection/configuration/overview?view=aspnetcore-5.0)
+* [Configure ASP.NET Core Data Protection](https://docs.microsoft.com/en-us/aspnet/core/security/data-protection/configuration/overview?view=aspnetcore-5.0)
 
-[An introduction to the Data Protection system in ASP.NET Core](https://andrewlock.net/an-introduction-to-the-data-protection-system-in-asp-net-core/)
+* [An introduction to the Data Protection system in ASP.NET Core](https://andrewlock.net/an-introduction-to-the-data-protection-system-in-asp-net-core/)
 
 
 ### Authentication & Authorization
 
 #### 📝 Articles
 
-[Introduction to Authentication with ASP.NET Core](https://andrewlock.net/introduction-to-authentication-with-asp-net-core/)
+* [Introduction to Authentication with ASP.NET Core](https://andrewlock.net/introduction-to-authentication-with-asp-net-core/)
 
-[Exploring the cookie authentication middleware in ASP.NET Core](https://andrewlock.net/exploring-the-cookieauthenticationmiddleware-in-asp-net-core/)
+* [Exploring the cookie authentication middleware in ASP.NET Core](https://andrewlock.net/exploring-the-cookieauthenticationmiddleware-in-asp-net-core/)
 
 
 ## Dependency Injection
@@ -330,6 +331,13 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 #### 📝 Articles
 
 * [Symmetric and Asymmetric Encryption in .NET Core](https://damienbod.com/2020/08/19/symmetric-and-asymmetric-encryption-in-net-core/)
+
+
+## Environment
+
+#### 📝 Articles
+
+* [How to set the hosting environment in ASP.NET Core](https://andrewlock.net/how-to-set-the-hosting-environment-in-asp-net-core/)
 
 
 
