@@ -21,7 +21,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Options Pattern](#options-pattern)
 * [Grpc](#grpc)
 * [WebSockets](#websockets)
-* [SignalR](signalR)
+* [SignalR](#signalR)
 * [HttpClient](#httpclient)
 * [WEB API](#web-api)
 * [Hosted Service](#hosted-service)
