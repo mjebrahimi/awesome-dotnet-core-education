@@ -31,9 +31,17 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Routing](#routing)
 * [Dependency Injection](#dependency-injection)
 * [Security](#security)
+   * [Encryption And Data Protection](#encryption-and-data-protection)
+   * [DotNet Core Identity](#dotnet-core-identity)
+   * [Authentication](#authentication)
+   * [Authorization](#authorization)
 * [Environment](#environment)
 * [Mapping](#mapping)
 * [Benchmarking](#benchmarking)
+
+
+
+
 
 
 
@@ -365,7 +373,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Security
 
-### Encryption	&& Data Protection
+### Encryption And Data Protection
 
 #### 📝 Articles
 
@@ -431,7 +439,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Implementing Policy-Based Authorization in ASP.NET Core - Getting Started](https://referbruv.com/blog/posts/implementing-policy-based-authorization-in-aspnet-core-getting-started)
 * [Policy-based Authorization in ASP.NET Core – A Deep Dive](https://www.red-gate.com/simple-talk/dotnet/c-programming/policy-based-authorization-in-asp-net-core-a-deep-dive/)
 * [ASP.NET Core Identity Claims based Authorization](https://procodeguide.com/programming/asp-net-core-identity-claims/)
-
 
 #### 📹 Videoes
 
