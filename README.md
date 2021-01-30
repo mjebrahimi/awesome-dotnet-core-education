@@ -1,7 +1,7 @@
 # 🎨 Awesome .Net Core Education [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 
-Collection of useful 📝 Articles and resources to learning and practicing about .Net Core and its related technologies, this repository will update continuously, keep yourself up to date.
+Collection of useful Articles and resources to learning and practicing about .Net Core and its related technologies, this repository will update continuously, keep yourself up to date.
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-dotnet-core-education/blob/master/contributing.md) pages first.
 
@@ -25,6 +25,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [SignalR](#signalr)
 * [HttpClient](#httpclient)
 * [WEB API](#web-api)
+* [API Versioning](#api-versioning)
 * [Hosted Service](#hosted-service)
 * [Test Host And WebApplicationFactory](#test-host-and-webapplicationfactory)
 * [Routing](#routing)
@@ -136,6 +137,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 * [Customizing ASP.NET Core Part 12: Hosting](https://asp.net-hacker.rocks/2019/04/29/customizing-aspnetcore-12-hosting.html)
 
+* [ASP.NET Core Hosting on IIS on Windows](https://procodeguide.com/programming/asp-net-core-hosting-on-iis/)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -234,9 +237,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### 📝 Articles
 
 * [Understanding WebSockets with ASP.NET Core](https://sahansera.dev/understanding-websockets-with-aspnetcore-5/)
-
 * [Using Web Sockets with ASP.NET Core](https://www.meziantou.net/using-web-sockets-with-asp-net-core.htm)
-
 * [WebSockets support in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/websockets?view=aspnetcore-5.0)
 
 <div align="right">
@@ -248,6 +249,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### 📝 Articles
 
 * [Use streaming in ASP.NET Core SignalR](https://docs.microsoft.com/en-us/aspnet/core/signalr/streaming?view=aspnetcore-5.0)
+* [Real-time Web Applications with SignalR in ASP.NET Core 3.1](https://procodeguide.com/programming/real-time-web-with-signalr-in-aspnet-core/)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -258,7 +260,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### 📝 Articles
 
 * [SENDING AND RECEIVING JSON USING HTTPCLIENT WITH SYSTEM.NET.HTTP.JSON](https://www.stevejgordon.co.uk/sending-and-receiving-json-using-httpclient-with-system-net-http-json)
-
 * [.NET 5: Exploring System.Net.Http.Json namespace](https://anthonygiretti.com/2020/10/03/net-5-exploring-system-net-http-json-namespace/)
 
 <div align="right">
@@ -270,12 +271,15 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### 📝 Articles
 
 * [ASP.NET Core 5 Route to Code: Taking advantage of Microsoft.AspNetCore.Http json extensions](https://anthonygiretti.com/2020/09/29/asp-net-core-5-route-to-code-taking-advantage-of-microsoft-aspnetcore-http-json-extensions/)
-
 * [Nano services with ASP.NET Core or how to build a light API](https://anthonygiretti.com/2020/06/29/nano-services-with-asp-net-core-or-how%20-to-build-a-light-api/)
-
 * [Beautiful and compact Web APIs with C# 9, .NET 5.0 and ASP.NET Core](https://www.strathweb.com/2020/10/beautiful-and-compact-web-apis-with-c-9-net-5-0-and-asp-net-core/)
-
 * [Building microservices with ASP.NET Core (without MVC)](https://www.strathweb.com/2017/01/building-microservices-with-asp-net-core-without-mvc/)
+
+## API Versioning
+
+### 📝 Articles
+
+[Web API Versioning in ASP.NET Core – Detailed Guide](https://procodeguide.com/programming/asp-net-core-web-api-versioning/)
 
 ### 🔖 Samples
 
@@ -353,6 +357,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 * [6 Ways To Implement The Strategy Pattern In C# (Basic To Advanced)](https://www.blog.jamesmichaelhickey.com/strategy-pattern-implementations/)
 
+* [Dependency Injection in ASP.NET Core 3.1](https://procodeguide.com/programming/dependency-injection-in-asp-net-core-3/)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -361,42 +367,100 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### Encryption	&& Data Protection
 
-### 📝 Articles
+#### 📝 Articles
 
 * [Symmetric and Asymmetric Encryption in .NET Core](https://damienbod.com/2020/08/19/symmetric-and-asymmetric-encryption-in-net-core/)
-  
 * [ENCRYPTING TEXTS FOR AN IDENTITY IN ASP.NET CORE RAZOR PAGES USING AES AND RSA](https://damienbod.com/2020/08/22/encrypting-texts-for-an-identity-in-asp-net-core-razor-pages-using-aes-and-rsa/)
-
 * [USING DIGITAL SIGNATURES TO CHECK INTEGRITY OF CIPHER TEXTS IN ASP.NET CORE RAZOR PAGES](https://damienbod.com/2020/09/01/using-digital-signatures-to-check-integrity-of-cipher-texts-in-asp-net-core-razor-pages/)
-
-* [Configure ASP.NET Core Data Protection](https://docs.microsoft.com/en-us/aspnet/core/security/data-protection/configuration/overview?view=aspnetcore-5.0)
-
+* [Configure ASP.NET Core Data Protection](https://docs.microsoft.com/en-us/aspnet/core/security/data-protection/configuration/overview)
 * [An introduction to the Data Protection system in ASP.NET Core](https://andrewlock.net/an-introduction-to-the-data-protection-system-in-asp-net-core/)
 
-
-### Authentication & Authorization
-
-### 📝 Articles
-
-* [Introduction to Authentication with ASP.NET Core](https://andrewlock.net/introduction-to-authentication-with-asp-net-core/)
-
-* [Exploring the cookie authentication middleware in ASP.NET Core](https://andrewlock.net/exploring-the-cookieauthenticationmiddleware-in-asp-net-core/)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
+
+### DotNet Core Identity
+
+#### 📝 Articles
+
+* [ASP.NET Core Identity – Getting Started](https://procodeguide.com/programming/asp-net-core-identity/)
+* [Overview of ASP.NET Core authentication](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/)
+* [Introduction to Identity on ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity)
+* [Identity model customization in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/customize-identity-model)
+* [ASP NET Core Identity Tutorial](https://www.tektutorialshub.com/asp-net-core/asp-net-core-identity-tutorial/)
+* [Login and Registration using Identity in ASP.NET Core 3.1](https://www.freecodespot.com/blog/asp-net-core-identity/)
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
+### Authentication 
+
+#### 📝 Articles
+
+* [Introduction to Authentication with ASP.NET Core](https://andrewlock.net/introduction-to-authentication-with-asp-net-core/)
+* [Exploring the cookie authentication middleware in ASP.NET Core](https://andrewlock.net/exploring-the-cookieauthenticationmiddleware-in-asp-net-core/)
+* [Getting started with Securing APIs using JWT Bearer Authentication - Hands on](https://referbruv.com/blog/posts/getting-started-with-securing-apis-using-jwt-bearer-authentication-hands-on)
+* [JWT Authentication In ASP.NET Core](https://www.freecodespot.com/blog/jwt-authentication-in-dotnet-core/)
+* [Login Web Application using Cookie Authentication in ASP NET Core](https://www.freecodespot.com/blog/cookie-authentication-in-dotnet-core/)
+
+#### 📹 Videoes
+
+* [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](https://www.youtube.com/watch?v=Fhfvbl_KbWo)
+* [ASP.NET Core 3 - Authentication - Ep.2 Identity Authentication](https://www.youtube.com/watch?v=IjbtWPXVJGw)
+
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
+### Authorization
+
+#### 📝 Articles
+
+* [Create an ASP.NET Core web app with user data protected by authorization](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/secure-data)
+* [ASP.NET Core Identity Roles based Authorization](https://procodeguide.com/programming/asp-net-core-identity-roles-authorization/)
+* [Role-based authorization in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/roles)
+* [Policy-based authorization in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/policies)
+* [Claims-based authorization in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/claims)
+* [Resource-based authorization in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/resourcebased)
+* [ASP.NET Core - Claims Based Authentication: Claims vs Identities vs Principals](https://eddieabbondanz.io/post/aspnet/claims-based-authentication-claims-identities-principals/)
+* [Role-based and Claims-based Authorization in ASP.NET Core using Policies - Hands on](https://referbruv.com/blog/posts/role-based-and-claims-based-authorization-in-aspnet-core-using-policies-hands-on)
+* [Implementing Policy-Based Authorization in ASP.NET Core - Getting Started](https://referbruv.com/blog/posts/implementing-policy-based-authorization-in-aspnet-core-getting-started)
+* [Policy-based Authorization in ASP.NET Core – A Deep Dive](https://www.red-gate.com/simple-talk/dotnet/c-programming/policy-based-authorization-in-asp-net-core-a-deep-dive/)
+* [ASP.NET Core Identity Claims based Authorization](https://procodeguide.com/programming/asp-net-core-identity-claims/)
+
+
+#### 📹 Videoes
+
+* [ASP.NET Core 3 - Authentication - Ep.3 Authorization (All about Policies and Claims)](https://www.youtube.com/watch?v=RBMO_hruKaI&t=11s)
+
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
+
 
 ## Environment
 
 ### 📝 Articles
 
 * [How to set the hosting environment in ASP.NET Core](https://andrewlock.net/how-to-set-the-hosting-environment-in-asp-net-core/)
+* [Configuring multiple ASP.NET Core hosting environment](https://procodeguide.com/programming/asp-net-core-hosting-environment/)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
 ## Mapping
+
+### 📝 Articles
+
+[Implement Automapper in ASP.NET Core 3.1 – Ultimate Guide](https://procodeguide.com/programming/automapper-in-asp-net-core/)
+
 
 ### 📦 Libraries 
 
