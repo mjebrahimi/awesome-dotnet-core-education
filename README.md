@@ -1,5 +1,6 @@
 # 🎨 Awesome .Net Core Education [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
+![Twitter Follow](https://img.shields.io/twitter/follow/mehdi_hadeli?style=social)  [![blog](https://img.shields.io/badge/blog-dotnetuniversity.com-brightgreen)](https://dotnetuniversity.com/https://dotnetuniversity.com/)
 
 Collection of useful Articles and resources to learning and practicing about .Net Core and its related technologies, this repository will update continuously, keep yourself up to date.
 
