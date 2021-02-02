@@ -282,8 +282,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Nano services with ASP.NET Core or how to build a light API](https://anthonygiretti.com/2020/06/29/nano-services-with-asp-net-core-or-how%20-to-build-a-light-api/)
 * [Beautiful and compact Web APIs with C# 9, .NET 5.0 and ASP.NET Core](https://www.strathweb.com/2020/10/beautiful-and-compact-web-apis-with-c-9-net-5-0-and-asp-net-core/)
 * [Building microservices with ASP.NET Core (without MVC)](https://www.strathweb.com/2017/01/building-microservices-with-asp-net-core-without-mvc/)
-* [Finally the ASP.NET 5 Web API Blog Series!!](https://chriswoodruff.com/finally-the-asp-net-5-web-api-blog-series/)
+* [Finally the ASP.NET 5 Web API Blog Series!](https://chriswoodruff.com/finally-the-asp-net-5-web-api-blog-series/)
 ## API Versioning
+
 
 ### 📝 Articles
 
@@ -302,6 +303,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
+
 
 ## Hosted Service
 
@@ -457,12 +460,20 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 [TRACING IO IN .NET CORE](https://www.softwarepark.cc/blog/2021/1/29/tracing-io-in-net-core)
 
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
 
 ## Tracing
 
 ### 📝 Articles
 
 [A Step by Step Guide to Logging in ASP.NET Core 5](https://www.ezzylearning.net/tutorial/a-step-by-step-guide-to-logging-in-asp-net-core-5)
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 
 ## Environment
@@ -481,6 +492,10 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### 📝 Articles
 
 [Implement Automapper in ASP.NET Core 3.1 – Ultimate Guide](https://procodeguide.com/programming/automapper-in-asp-net-core/)
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 
 ### 📦 Libraries 
