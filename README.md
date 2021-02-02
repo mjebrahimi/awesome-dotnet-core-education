@@ -35,14 +35,11 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
    * [DotNet Core Identity](#dotnet-core-identity)
    * [Authentication](#authentication)
    * [Authorization](#authorization)
+* [Logging](#logging)
+* [Tracing](#tracing)
 * [Environment](#environment)
 * [Mapping](#mapping)
 * [Benchmarking](#benchmarking)
-
-
-
-
-
 
 
 ## DotNet 5
@@ -203,6 +200,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 * [Customizing ASP.​NET Core Part 02: Configuration](https://asp.net-hacker.rocks/2018/09/24/customizing-aspnetcore-02-configuration.html)
 
+* [How to use configuration with C# 9 top-level programs](https://daveabrock.com/2021/01/19/config-top-level-programs)
+
 ### 📦 Libraries
 
 * [NetEscapades.Configuration](https://github.com/andrewlock/NetEscapades.Configuration)
@@ -269,7 +268,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 * [SENDING AND RECEIVING JSON USING HTTPCLIENT WITH SYSTEM.NET.HTTP.JSON](https://www.stevejgordon.co.uk/sending-and-receiving-json-using-httpclient-with-system-net-http-json)
 * [.NET 5: Exploring System.Net.Http.Json namespace](https://anthonygiretti.com/2020/10/03/net-5-exploring-system-net-http-json-namespace/)
-
+* [Introducing Strongly Typed HTTP Request Headers for ASP.NET Core](https://stevetalkscode.co.uk/stronglytypedheaders-part1)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -282,7 +281,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Nano services with ASP.NET Core or how to build a light API](https://anthonygiretti.com/2020/06/29/nano-services-with-asp-net-core-or-how%20-to-build-a-light-api/)
 * [Beautiful and compact Web APIs with C# 9, .NET 5.0 and ASP.NET Core](https://www.strathweb.com/2020/10/beautiful-and-compact-web-apis-with-c-9-net-5-0-and-asp-net-core/)
 * [Building microservices with ASP.NET Core (without MVC)](https://www.strathweb.com/2017/01/building-microservices-with-asp-net-core-without-mvc/)
-
+* [Finally the ASP.NET 5 Web API Blog Series!!](https://chriswoodruff.com/finally-the-asp-net-5-web-api-blog-series/)
 ## API Versioning
 
 ### 📝 Articles
@@ -360,6 +359,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [ASP.NET CORE DEPENDENCY INJECTION – HOW TO REGISTER GENERIC TYPES](https://www.stevejgordon.co.uk/asp-net-core-dependency-injection-how-to-register-generic-types)
 
 * [ASP.NET CORE DEPENDENCY INJECTION – REGISTERING IMPLEMENTATIONS USING DELEGATES](https://www.stevejgordon.co.uk/asp-net-core-dependency-injection-registering-implementations-using-delegates)
+
+* [Choosing a ServiceLifetime](https://jimmybogard.com/choosing-a-servicelifetime/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GrabBagOfT+%28Jimmy+Bogard%29)
 
 * [ASP.NET Core and the Strategy Pattern](https://adamstorr.azurewebsites.net/blog/aspnetcore-and-the-strategy-pattern)
 
@@ -449,6 +450,18 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
+## Logging
+
+### 📝 Articles
+
+[TRACING IO IN .NET CORE](https://www.softwarepark.cc/blog/2021/1/29/tracing-io-in-net-core)
+
+
+## Tracing
+
+### 📝 Articles
+
+[A Step by Step Guide to Logging in ASP.NET Core 5](https://www.ezzylearning.net/tutorial/a-step-by-step-guide-to-logging-in-asp-net-core-5)
 
 
 ## Environment
