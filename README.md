@@ -12,6 +12,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 
 ## Contents
+* [DotNet](#dotnet)
 * [DotNet 5](#dotnet-5)
 * [DotNet Standard](#dotnet-standard)
 * [Generic Host And Web Host](#generic-host-and-web-host)
@@ -43,6 +44,16 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Benchmarking](#benchmarking)
 
 
+## DotNet
+
+### 📝 Articles 
+
+* [What is .NET? What's C# and F#? What's the .NET Ecosystem? .NET Core Explained, what can .NET build?](https://www.youtube.com/watch?v=bEfBfBQq7EE)
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
 ## DotNet 5
 
 ### 📝 Articles 
@@ -69,7 +80,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### 📹 Videoes
 
-* [Big Changes in .NET 5, C# 9, and Visual Studio 2019 - IAmTimCorey](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=zjVgQNfAEOs)
+* [Big Changes in .NET 5, C# 9, and Visual Studio 2019 - IAmTimCorey](https://www.youtube.com/watch?v=zjVgQNfAEOs)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -234,7 +245,15 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## Grpc
 
 ### 📝 Articles
-
+* [Introduction to gRPC on .NET](https://docs.microsoft.com/en-us/aspnet/core/grpc/)
+* [gRPC services with C#](https://docs.microsoft.com/en-us/aspnet/core/grpc/basics)
+* [Create gRPC services and methods](https://docs.microsoft.com/en-us/aspnet/core/grpc/services)
+* [Call gRPC services with the .NET client](https://docs.microsoft.com/en-us/aspnet/core/grpc/client)
+* [gRPC client factory integration in .NET Core](https://docs.microsoft.com/en-us/aspnet/core/grpc/clientfactory)
+* [gRPC and C# 8 Async stream](https://laurentkempe.com/2019/09/18/gRPC-and-csharp-8-Async-stream/)
+* [gRPC and C# 8 Async stream cancellation](https://laurentkempe.com/2019/09/25/gRPC-and-csharp-8-Async-stream-cancellation/)
+* [Code-first gRPC services and clients with .NET](https://docs.microsoft.com/en-us/aspnet/core/grpc/code-first)
+* [Create JSON Web APIs from gRPC](https://docs.microsoft.com/en-us/aspnet/core/grpc/httpapi)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
