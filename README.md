@@ -1,6 +1,6 @@
 # 🎨 Awesome .Net Core Education [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-![Twitter URL](https://img.shields.io/twitter/url?label=twitter&logoColor=blue&url=https%3A%2F%2Ftwitter.com%2Fmehdi_hadeli) 
+![Twitter URL](https://img.shields.io/badge/-@mehdi_hadeli-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff) 
 [![blog](https://img.shields.io/badge/blog-dotnetuniversity.com-brightgreen?style=flat-square)](https://dotnetuniversity.com/https://dotnetuniversity.com/)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
 [![HitCount](http://hits.dwyl.com/mehdihadeli/awesome-dotnet-core-education.svg?style=flat-square)](http://hits.dwyl.com/mehdihadeli/awesome-dotnet-core-education)
