@@ -1,6 +1,7 @@
 # 🎨 Awesome .Net Core Education [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/mehdi_hadeli?style=social)  [![blog](https://img.shields.io/badge/blog-dotnetuniversity.com-brightgreen)](https://dotnetuniversity.com/https://dotnetuniversity.com/)
+![Twitter URL](https://img.shields.io/twitter/url?label=twitter&logoColor=blue&url=https%3A%2F%2Ftwitter.com%2Fmehdi_hadeli)  [![blog](https://img.shields.io/badge/blog-dotnetuniversity.com-brightgreen?style=flat)](https://dotnetuniversity.com/https://dotnetuniversity.com/)[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
+[![HitCount](http://hits.dwyl.com/mehdihadeli/awesome-dotnet-core-education.svg?style=flat)](http://hits.dwyl.com/mehdihadeli/awesome-dotnet-core-education)
 
 Collection of useful Articles and resources to learning and practicing about .Net Core and its related technologies, this repository will update continuously, keep yourself up to date.
 
@@ -52,7 +53,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### 📝 Articles 
 
-* [What is .NET? What's C# and F#? What's the .NET Ecosystem? .NET Core Explained, what can .NET build?](https://www.youtube.com/watch?v=bEfBfBQq7EE)
+* [What is .NET? What's C# and F#? What's the .NET Ecosystem? .NET Core Explained, what can .NET build?](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=bEfBfBQq7EE)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -84,7 +85,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### 📹 Videoes
 
-* [Big Changes in .NET 5, C# 9, and Visual Studio 2019 - IAmTimCorey](https://www.youtube.com/watch?v=zjVgQNfAEOs)
+* [Big Changes in .NET 5, C# 9, and Visual Studio 2019 - IAmTimCorey](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=zjVgQNfAEOs)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -471,8 +472,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 #### 📹 Videoes
 
-* [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](https://www.youtube.com/watch?v=Fhfvbl_KbWo)
-* [ASP.NET Core 3 - Authentication - Ep.2 Identity Authentication](https://www.youtube.com/watch?v=IjbtWPXVJGw)
+* [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=Fhfvbl_KbWo)
+* [ASP.NET Core 3 - Authentication - Ep.2 Identity Authentication](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=IjbtWPXVJGw)
 
 
 <div align="right">
@@ -497,7 +498,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 #### 📹 Videoes
 
-* [ASP.NET Core 3 - Authentication - Ep.3 Authorization (All about Policies and Claims)](https://www.youtube.com/watch?v=RBMO_hruKaI&t=11s)
+* [ASP.NET Core 3 - Authentication - Ep.3 Authorization (All about Policies and Claims)](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=RBMO_hruKaI&t=11s)
 
 
 <div align="right">
@@ -595,9 +596,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### 📹 Videoes
 
-* [Mapster, the best .NET mapper that you are (probably) not using](https://www.youtube.com/watch?v=UIslFVEHkzA)
+* [Mapster, the best .NET mapper that you are (probably) not using](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=UIslFVEHkzA)
 
-* [Domain to Contract mapping with Automapper | ASP.NET Core 5 REST API Tutorial 20](https://www.youtube.com/watch?v=1Dz5Lfo6mqo)
+* [Domain to Contract mapping with Automapper | ASP.NET Core 5 REST API Tutorial 20](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=1Dz5Lfo6mqo)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -612,9 +613,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### 📹 Videoes
 
-* [Benchmarking C# code using BenchmarkDotNet](https://www.youtube.com/watch?v=EWmufbVF2A4)
+* [Benchmarking C# code using BenchmarkDotNet](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=EWmufbVF2A4)
 
-* [Analyzing performance with BenchmarkDotNet - ASP.NET Core: From 0 to overkill](https://www.youtube.com/watch?v=8JOC8kN_WbU)
+* [Analyzing performance with BenchmarkDotNet - ASP.NET Core: From 0 to overkill](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=8JOC8kN_WbU)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
