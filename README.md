@@ -15,6 +15,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [DotNet](#dotnet)
 * [DotNet 5](#dotnet-5)
 * [DotNet Standard](#dotnet-standard)
+* [MetaPack](#metapack)
+* [Serialization](#serialization)
 * [Generic Host And Web Host](#generic-host-and-web-host)
 * [LifeCycle](#lifecycle)
 * [Hosting](#hosting)
@@ -39,9 +41,11 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
    * [Authorization](#authorization)
 * [Logging](#logging)
 * [Tracing](#tracing)
+* [EF Core](#ef-core)
 * [Environment](#environment)
 * [Mapping](#mapping)
 * [Benchmarking](#benchmarking)
+* [Others](#others)
 
 
 ## DotNet
@@ -85,6 +89,22 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
+
+## MetaPack
+
+### 📝 Articles
+
+* [Microsoft.AspNetCore.App for ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/metapackage-app)
+* [Microsoft.AspNetCore.All metapackage for ASP.NET Core 2.0](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/metapackage)
+* [Deep-dive into .NET Core primitives, part 2: the shared framework](https://b2n.ir/083540)
+
+## Serialization
+
+### 📝 Articles
+
+* [Polymorphic deserialization with System.Text.Json](https://josef.codes/polymorphic-deserialization-with-system-text-json/)
+
 
 ## Generic Host And Web Host
 
@@ -137,6 +157,10 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [ASP.NET CORE ANATOMY (PART 3) – USEMVC](https://www.stevejgordon.co.uk/asp-net-core-anatomy-part-3-addmvc)
 
 * [ASP.NET CORE ANATOMY (PART 4) – INVOKING THE MVC MIDDLEWARE](https://www.stevejgordon.co.uk/invoking-mvc-middleware-asp-net-core-anatomy-part-4)
+
+* [Deep-dive into .NET Core primitives: deps.json, runtimeconfig.json, and dll's](https://natemcmaster.com/blog/2017/12/21/netcore-primitives/)
+* [Deep-dive into .NET Core primitives, part 2: the shared framework](https://natemcmaster.com/blog/2018/08/29/netcore-primitives-2/)
+* [Deep-dive into .NET Core primitives, part 3: runtimeconfig.json in depth](https://natemcmaster.com/blog/2019/01/09/netcore-primitives-3/)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -237,7 +261,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 * [Access services inside ConfigureServices using IConfigureOptions in ASP.NET Core](https://andrewlock.net/access-services-inside-options-and-startup-using-configureoptions/)
 
-
+* [ASP.NET Core IOptions Configuration](https://khalidabuhakmeh.com/aspnet-core-ioptions-configuration)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -299,9 +323,16 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 * [ASP.NET Core 5 Route to Code: Taking advantage of Microsoft.AspNetCore.Http json extensions](https://anthonygiretti.com/2020/09/29/asp-net-core-5-route-to-code-taking-advantage-of-microsoft-aspnetcore-http-json-extensions/)
 * [Nano services with ASP.NET Core or how to build a light API](https://anthonygiretti.com/2020/06/29/nano-services-with-asp-net-core-or-how%20-to-build-a-light-api/)
+* [Basic JSON APIs with Route-to-code in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/web-api/route-to-code)
+* [Model Binding - ASP.NET Core Demystified](https://exceptionnotfound.net/asp-net-core-demystified-model-binding-in-mvc/)
 * [Beautiful and compact Web APIs with C# 9, .NET 5.0 and ASP.NET Core](https://www.strathweb.com/2020/10/beautiful-and-compact-web-apis-with-c-9-net-5-0-and-asp-net-core/)
 * [Building microservices with ASP.NET Core (without MVC)](https://www.strathweb.com/2017/01/building-microservices-with-asp-net-core-without-mvc/)
 * [Finally the ASP.NET 5 Web API Blog Series!](https://chriswoodruff.com/finally-the-asp-net-5-web-api-blog-series/)
+* [ASP.NET Core in .NET 5 – pass parameters to actions](https://www.michalbialecki.com/2020/05/07/asp-net-5-pass-parameters-to-actions/)
+* [Model Binding in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/model-binding)
+* [Custom Model Binding in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/advanced/custom-model-binding)
+* [Asp.Net Core Model Binding: Controlling The Binding Source](https://hamidmosalla.com/2017/07/06/asp-net-core-model-binding-controlling-the-binding-source/)
+
 ## API Versioning
 
 
@@ -329,9 +360,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### 📝 Articles
 
-* [IMPLEMENTING IHOSTEDSERVICE IN ASP.NET CORE 2.0](https://www.stevejgordon.co.uk/asp-net-core-2-ihostedservice)
+* [Background tasks with hosted services in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/hosted-services)
 
-* [Background tasks with hosted services in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/hosted-services?view=aspnetcore-3.1&tabs=visual-studio)
+* [IMPLEMENTING IHOSTEDSERVICE IN ASP.NET CORE 2.0](https://www.stevejgordon.co.uk/asp-net-core-2-ihostedservice)
 
 * [ASP. NET Core - IHostedService and BackgroundService](https://girishgodage.in/blog/customize-hostedservices)
 
@@ -477,7 +508,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### 📝 Articles
 
-[TRACING IO IN .NET CORE](https://www.softwarepark.cc/blog/2021/1/29/tracing-io-in-net-core)
+* [TRACING IO IN .NET CORE](https://www.softwarepark.cc/blog/2021/1/29/tracing-io-in-net-core)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -488,12 +519,52 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### 📝 Articles
 
-[A Step by Step Guide to Logging in ASP.NET Core 5](https://www.ezzylearning.net/tutorial/a-step-by-step-guide-to-logging-in-asp-net-core-5)
+* [A Step by Step Guide to Logging in ASP.NET Core 5](https://www.ezzylearning.net/tutorial/a-step-by-step-guide-to-logging-in-asp-net-core-5)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
+## EF Core
+
+### 📝 Articles
+* [Announcing the Release of EF Core 5.0](https://devblogs.microsoft.com/dotnet/announcing-the-release-of-ef-core-5-0/)
+* [Entity Framework Core 5 free resources](https://erikej.github.io/efcore/2021/01/05/efcore-5-resources.html)
+* [What's New in EF Core 5.0](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-5.0/whatsnew?WT.mc_id=DT-MVP-4025156)
+* [Calling Stored Procedures with the Entity Framework in .NET 5](https://www.codemag.com/Article/2101031/Calling-Stored-Procedures-with-the-Entity-Framework-in-.NET-5)
+* [EF Core 5: Building on the Foundation](https://www.codemag.com/Article/2010042/EF-Core-5-Building-on-the-Foundation)
+* [Entity Framework Core 5 Resources I’ve Created Recently](https://thedatafarm.com/data-access/entity-framework-core-5-resources/)
+* [Entity Framework Core 5 vs SQLBulkCopy](https://www.michalbialecki.com/2020/05/03/entity-framework-core-5-vs-sqlbulkcopy-2/)
+* [Entity Framework Core health check](https://www.michalbialecki.com/2020/03/13/entity-framework-core-health-check/)
+* [Entity Framework Core 3.0: A Foundation for the Future](https://codemag.com/Article/1911062/Entity-Framework-Core-3.0-A-Foundation-for-the-Future)
+* [Useful SQL statements when writing EF Core 5 migrations](https://www.michalbialecki.com/2021/01/07/useful-sql-statements-when-writing-ef-core-5-migrations/)
+* [Adding Entity Framework Core 5 migrations to .NET 5 project](https://www.michalbialecki.com/2020/07/20/adding-entity-framework-core-5-migrations-to-net-5-project/)
+* [Merging migrations in Entity Framework Core 5](https://www.michalbialecki.com/2020/07/24/merging-migrations-in-entity-framework-core-5/)
+* [Executing raw SQL with Entity Framework Core 5](https://www.michalbialecki.com/2020/09/14/executing-raw-sql-with-entity-framework-core-5/)
+* [PrimeHotel – adding Entity Framework Core 5 in .NET](https://www.michalbialecki.com/2020/07/10/primehotel-adding-entity-framework-core-5/)
+* [Working with views in Entity Framework Core 5](https://www.michalbialecki.com/2020/09/09/working-with-views-in-entity-framework-core-5/)
+* [Adding an Entity Framework Core 5 to an existing database](https://www.michalbialecki.com/2020/07/17/adding-an-entity-framework-core-5-to-an-existing-database/)
+* [How to configure relationships in Entity Framework Core 5](https://www.michalbialecki.com/2020/10/02/how-to-configure-relationships-in-entity-framework-core-5/)
+* [Entity Framework Core – is it fast?](https://www.michalbialecki.com/2021/01/10/entity-framework-core-is-it-fast/)
+* [Bulk copy with Entity Framework Core 5](https://www.michalbialecki.com/2021/01/21/bulk-copy-with-entity-framework-core-5/)
+* [Unit tests in Entity Framework Core 5](https://www.michalbialecki.com/2020/11/28/unit-tests-in-entity-framework-core-5/)
+* [How not to pass parameters in Entity Framework Core 5](https://www.michalbialecki.com/2020/09/26/how-not-to-pass-parameters-in-entity-framework-core-5/)
+* [Select data with a stored procedure with Entity Framework Core 5](https://www.michalbialecki.com/2020/09/03/select-data-with-a-stored-procedure-with-entity-framework-core-5/)
+* [How to call stored procedures with OUTPUT parameters with FromSqlRaw in EF Core](https://erikej.github.io/efcore/2020/08/03/ef-core-call-stored-procedures-out-parameters.html)
+* [Query non-table classes using ad-hoc (raw) SQL with EF Core 3.1](https://erikej.github.io/efcore/2020/04/06/query-non-table-classes-raw-sql.html)
+* [Execute a stored procedure with Entity Framework Core 5](https://www.michalbialecki.com/2020/08/27/execute-a-stored-procedure-with-entity-framework-core-5/)
+* [Mapping and using SQL Server stored procedures with EF Core Power Tools](https://erikej.github.io/efcore/2020/08/10/ef-core-power-tools-stored-procedures.html)
+* [Avoiding SQL Server plan cache pollution with EF Core 3 and Enumerable.Contains](https://erikej.github.io/efcore/sqlserver/2020/03/30/ef-core-cache-pollution.html)
+* [How to pass a dynamic/variable list of values as SqlParameters with FromSqlRaw in EF Core](https://erikej.github.io/efcore/sqlserver/2020/04/20/use-dynamic-sqlparameters-with-fromsql.html)
+* [How to call stored procedures with OUTPUT parameters with FromSqlRaw in EF Core](https://erikej.github.io/efcore/2020/08/03/ef-core-call-stored-procedures-out-parameters.html)
+* [EF Core Power Tools database reverse engineering: renaming of entities and properties](https://erikej.github.io/efcore/2020/09/07/ef-core-power-tools-renaming-advanced.html)
+### 📦 Libraries 
+
+* [linq2db.EntityFrameworkCore](https://github.com/linq2db/linq2db.EntityFrameworkCore)
+> Bring power of Linq To DB to Entity Framework Core projects
+
+* [EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools)
+> reverse engineering, migrations and model visualization for EF Core
 
 ## Environment
 
@@ -548,3 +619,17 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
+## Others
+
+### 📝 Articles
+
+* [Building a social media platform without going bankrupt Part I–Laying the numbers](https://ayende.com/blog/193026-C/building-a-social-media-platform-without-going-bankrupt-part-i-laying-the-numbers)
+* [Building a social media platform without going bankrupt Part II–Accepting posts](https://ayende.com/blog/193027-C/building-a-social-media-platform-without-going-bankrupt-part-ii-accepting-posts)
+* [Building a social media platform without going bankrupt Part III–Reading posts](https://ayende.com/blog/193028-C/building-a-social-media-platform-without-going-bankrupt-part-iii-reading-posts)
+* [Building a social media platform without going bankrupt Part IV–Caching and distribution](https://ayende.com/blog/193029-C/building-a-social-media-platform-without-going-bankrupt-part-iv-caching-and-distribution)
+* [Building a social media platform without going bankrupt Part V–Handling the timeline](https://ayende.com/blog/193057-A/building-a-social-media-platform-without-going-bankrupt-part-v-handling-the-timeline)
+* [Building a social media platform without going bankrupt Part VI–Dealing with edits and deletions](https://ayende.com/blog/193058-A/building-a-social-media-platform-without-going-bankrupt-part-vi-dealing-with-edits-and-deletions)
+* [Building a social media platform without going bankrupt Part VII–Counting views, replies and likes](https://ayende.com/blog/193059-A/building-a-social-media-platform-without-going-bankrupt-part-vii-counting-views-replies-and-likes)
+* [Building a social media platform without going bankrupt Part VIII–Tagging and searching](https://ayende.com/blog/193060-A/building-a-social-media-platform-without-going-bankrupt-part-viii-tagging-and-searching)
+* [Building a social media platform without going bankrupt Part IX–Dealing with the past](https://ayende.com/blog/193061-A/building-a-social-media-platform-without-going-bankrupt-part-ix-dealing-with-the-past)
