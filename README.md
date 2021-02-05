@@ -18,6 +18,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [DotNet 5](#dotnet-5)
 * [DotNet Standard](#dotnet-standard)
 * [Dotnet Core](#dotnet-core)
+* [DotNet CLI](#dotnet-cli)
 * [MetaPack](#metapack)
 * [Serialization](#serialization)
 * [Generic Host And Web Host](#generic-host-and-web-host)
@@ -118,6 +119,16 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
+## DotNet CLI
+
+### 📝 Articles
+
+- [.NET CLI overview](https://docs.microsoft.com/en-us/dotnet/core/tools/)
+- [Custom templates for dotnet new](https://docs.microsoft.com/en-us/dotnet/core/tools/custom-templates)
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 ## MetaPack
 
