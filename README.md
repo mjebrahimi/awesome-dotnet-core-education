@@ -15,6 +15,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [DotNet](#dotnet)
 * [DotNet 5](#dotnet-5)
 * [DotNet Standard](#dotnet-standard)
+* [Dotnet Core](#dotnet-core)
 * [MetaPack](#metapack)
 * [Serialization](#serialization)
 * [Generic Host And Web Host](#generic-host-and-web-host)
@@ -91,6 +92,31 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 </div>
 
 
+## DotNet Core
+
+### 📝 Articles
+
+* [What's new in ASP.NET Core 2.1](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-2.1)
+* [What's new in ASP.NET Core 2.2](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-2.2)
+* [What's new in ASP.NET Core 3.0](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-3.0)
+* [What's new in ASP.NET Core 3.1](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-3.1)
+* [What's new in ASP.NET Core 5.0](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-5.0)
+* [Migrate from ASP.NET Core 2.2 to 3.0](https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30)
+* [Migrate from ASP.NET Core 3.0 to 3.1](https://docs.microsoft.com/en-us/aspnet/core/migration/30-to-31)
+* [Migrate from ASP.NET Core 3.1 to 5.0](https://docs.microsoft.com/en-us/aspnet/core/migration/31-to-50)
+
+
+### 📹 Videoes
+
+* [Migrating to .NET Core 3 | ASP.NET Core 2.2 & 3 REST API Tutorial 16](https://www.youtube.com/watch?v=gYy5XJRJkOo)
+* [Upgrading to .NET Core 3.1 (Real Life Project)](https://www.youtube.com/watch?v=afyCeCkec4c)
+* [Upgrading to .NET 5.0 RC w/ C# 9.0](https://www.youtube.com/watch?v=ufjtuAel538&t=179s)
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
+
 ## MetaPack
 
 ### 📝 Articles
@@ -99,11 +125,19 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Microsoft.AspNetCore.All metapackage for ASP.NET Core 2.0](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/metapackage)
 * [Deep-dive into .NET Core primitives, part 2: the shared framework](https://b2n.ir/083540)
 
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
 ## Serialization
 
 ### 📝 Articles
 
 * [Polymorphic deserialization with System.Text.Json](https://josef.codes/polymorphic-deserialization-with-system-text-json/)
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
 
 ## Generic Host And Web Host
@@ -145,6 +179,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
 
 ## LifeCycle 
 
@@ -279,6 +314,12 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Code-first gRPC services and clients with .NET](https://docs.microsoft.com/en-us/aspnet/core/grpc/code-first)
 * [Create JSON Web APIs from gRPC](https://docs.microsoft.com/en-us/aspnet/core/grpc/httpapi)
 
+### Videoes
+
+* [Bidirectional Streaming | gRPC in .NET 5](https://www.youtube.com/watch?v=wY4nMSUF9e0)
+* [Client Streaming | gRPC in .NET 5](https://www.youtube.com/watch?v=DNxdvRQ4qRQ)
+* [gRPC Server & Unary Calls | gRPC in .NET 5](https://www.youtube.com/watch?v=hp5FTB7PI9s&t=0s)
+* [Server Streaming | gRPC in .NET 5](https://www.youtube.com/watch?v=F2T6xNRoa1E&t=0s)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -333,8 +374,12 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Custom Model Binding in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/advanced/custom-model-binding)
 * [Asp.Net Core Model Binding: Controlling The Binding Source](https://hamidmosalla.com/2017/07/06/asp-net-core-model-binding-controlling-the-binding-source/)
 
-## API Versioning
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 
+
+## API Versioning
 
 ### 📝 Articles
 
@@ -353,7 +398,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
-
 
 
 ## Hosted Service
@@ -388,8 +432,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-## Routing
 
+## Routing
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -438,11 +482,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Configure ASP.NET Core Data Protection](https://docs.microsoft.com/en-us/aspnet/core/security/data-protection/configuration/overview)
 * [An introduction to the Data Protection system in ASP.NET Core](https://andrewlock.net/an-introduction-to-the-data-protection-system-in-asp-net-core/)
 
-
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
-
 
 ### DotNet Core Identity
 
@@ -558,6 +600,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [How to pass a dynamic/variable list of values as SqlParameters with FromSqlRaw in EF Core](https://erikej.github.io/efcore/sqlserver/2020/04/20/use-dynamic-sqlparameters-with-fromsql.html)
 * [How to call stored procedures with OUTPUT parameters with FromSqlRaw in EF Core](https://erikej.github.io/efcore/2020/08/03/ef-core-call-stored-procedures-out-parameters.html)
 * [EF Core Power Tools database reverse engineering: renaming of entities and properties](https://erikej.github.io/efcore/2020/09/07/ef-core-power-tools-renaming-advanced.html)
+
 ### 📦 Libraries 
 
 * [linq2db.EntityFrameworkCore](https://github.com/linq2db/linq2db.EntityFrameworkCore)
@@ -565,6 +608,11 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 * [EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools)
 > reverse engineering, migrations and model visualization for EF Core
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
 
 ## Environment
 
@@ -633,3 +681,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Building a social media platform without going bankrupt Part VII–Counting views, replies and likes](https://ayende.com/blog/193059-A/building-a-social-media-platform-without-going-bankrupt-part-vii-counting-views-replies-and-likes)
 * [Building a social media platform without going bankrupt Part VIII–Tagging and searching](https://ayende.com/blog/193060-A/building-a-social-media-platform-without-going-bankrupt-part-viii-tagging-and-searching)
 * [Building a social media platform without going bankrupt Part IX–Dealing with the past](https://ayende.com/blog/193061-A/building-a-social-media-platform-without-going-bankrupt-part-ix-dealing-with-the-past)
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
