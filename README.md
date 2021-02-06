@@ -22,7 +22,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [MetaPack](#metapack)
 * [Serialization](#serialization)
 * [Generic Host And Web Host](#generic-host-and-web-host)
-* [LifeCycle](#lifecycle)
+* [DotNet Core Architecture](#dotnet-core-architecture)
 * [Hosting](#hosting)
 * [Kestrel](#kestrel)
 * [Middleware](#middleware)
@@ -33,6 +33,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [SignalR](#signalr)
 * [HttpClient](#httpclient)
 * [WEB API](#web-api)
+* [DotNet Core GraphQL](#dotnet-core-graphql)
+* [DotNet Core Docker](#dotnet-core-docker)
 * [API Versioning](#api-versioning)
 * [Hosted Service](#hosted-service)
 * [Test Host And WebApplicationFactory](#test-host-and-webapplicationfactory)
@@ -194,7 +196,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 </div>
 
 
-## LifeCycle 
+## DotNet Core Architecture 
 
 ### 📝 Articles
 
@@ -209,6 +211,10 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Deep-dive into .NET Core primitives: deps.json, runtimeconfig.json, and dll's](https://natemcmaster.com/blog/2017/12/21/netcore-primitives/)
 * [Deep-dive into .NET Core primitives, part 2: the shared framework](https://natemcmaster.com/blog/2018/08/29/netcore-primitives-2/)
 * [Deep-dive into .NET Core primitives, part 3: runtimeconfig.json in depth](https://natemcmaster.com/blog/2019/01/09/netcore-primitives-3/)
+
+### 📹 Videoes
+
+* [ASP.NET Community Standup - ASP.NET Core Architecture with David Fowler](https://www.youtube.com/watch?v=d9Bjg31VuHw&feature=emb_title)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -239,6 +245,10 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Kestrel web server implementation in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/servers/kestrel?view=aspnetcore-5.0)
 
 * [.NET Core 3.0 AllowSynchronousIO Workaround](https://khalidabuhakmeh.com/dotnet-core-3-dot-0-allowsynchronousio-workaround)
+
+### 📹 Videoes
+
+* [Custom HTTPS Dev Environment using .NET Core, Kestrel & certificates](https://www.youtube.com/watch?v=96KHOaIe19w&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=3&t=2090s)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -327,7 +337,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Code-first gRPC services and clients with .NET](https://docs.microsoft.com/en-us/aspnet/core/grpc/code-first)
 * [Create JSON Web APIs from gRPC](https://docs.microsoft.com/en-us/aspnet/core/grpc/httpapi)
 
-### Videoes
+### 📹 Videoes
 
 * [Bidirectional Streaming | gRPC in .NET 5](https://www.youtube.com/watch?v=wY4nMSUF9e0)
 * [Client Streaming | gRPC in .NET 5](https://www.youtube.com/watch?v=DNxdvRQ4qRQ)
@@ -355,6 +365,10 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 * [Use streaming in ASP.NET Core SignalR](https://docs.microsoft.com/en-us/aspnet/core/signalr/streaming?view=aspnetcore-5.0)
 * [Real-time Web Applications with SignalR in ASP.NET Core 3.1](https://procodeguide.com/programming/real-time-web-with-signalr-in-aspnet-core/)
+
+### 📹 Videoes
+
+* [Asp.Net Core WebSockets Vs SignalR. Which should you use?](https://www.youtube.com/watch?v=ycVgXe6v1VQ&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=6)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -386,17 +400,42 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 * [Model Binding in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/model-binding)
 * [Custom Model Binding in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/advanced/custom-model-binding)
 * [Asp.Net Core Model Binding: Controlling The Binding Source](https://hamidmosalla.com/2017/07/06/asp-net-core-model-binding-controlling-the-binding-source/)
+* [Use ASP.NET Core route-to-code for simple JSON APIs](https://daveabrock.com/2020/12/04/migrate-mvc-to-route-to-code)
+* [Using action results and content negotiation with "route-to-code" APIs](https://andrewlock.net/using-action-results-and-content-negotiation-with-route-to-code/)
+* [Creating Discoverable HTTP APIs with ASP.NET Core 5 Web API](https://devblogs.microsoft.com/aspnet/creating-discoverable-http-apis-with-asp-net-core-5-web-api/?WT.mc_id=DOP-MVP-4025064&_lrsc=d4a12070-16f9-4d79-8171-918b6c254765&utm_campaign=elevate&utm_source=linkedin&utm_medium=social)
+
+### 📹 Videoes
+* [ASP.NET Core Series: Route to Code](https://www.youtube.com/watch?v=j-33Uz32hG0)
+* [NET Core 3.1 MVC REST API - Full Course](https://www.youtube.com/watch?v=fmvcAzHpsk8&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=2&t=5001s)
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
+## DotNet Core GraphQL
+
+### 📝 Articles
+
+### 📹 Videoes
+
+* [GraphQL API with .NET 5 and Hot Chocolate](https://www.youtube.com/watch?v=HuN94qNwQmM)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
+## DotNet Core Docker
+
+### 📝 Articles
+
+### 📹 Videoes
+
+* [Deploy a .NET Core API with Docker (Step-by-Step)](https://www.youtube.com/watch?v=f0lMGPB10bM&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=5&t=52s)
 
 ## API Versioning
 
 ### 📝 Articles
 
-[Web API Versioning in ASP.NET Core – Detailed Guide](https://procodeguide.com/programming/asp-net-core-web-api-versioning/)
+* [Web API Versioning in ASP.NET Core – Detailed Guide](https://procodeguide.com/programming/asp-net-core-web-api-versioning/)
 
 ### 🔖 Samples
 
@@ -528,7 +567,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 * [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=Fhfvbl_KbWo)
 * [ASP.NET Core 3 - Authentication - Ep.2 Identity Authentication](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=IjbtWPXVJGw)
-
+* [Secure a .NET Core API with Bearer Authentication](https://www.youtube.com/watch?v=3PyUjOmuFic&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=4)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
