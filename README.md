@@ -215,7 +215,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### 📹 Videoes
 
 * [ASP.NET Community Standup - ASP.NET Core Architecture with David Fowler](https://www.youtube.com/watch?v=d9Bjg31VuHw&feature=emb_title)
-
+* [Munich .NET Meetup: Anatomy of ASP.NET Core Requests by Steve Gordon](https://www.youtube.com/watch?v=zMU_LGbTsCQ&feature=youtu.be)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
