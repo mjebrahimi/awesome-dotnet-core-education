@@ -407,6 +407,14 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### 📹 Videoes
 * [ASP.NET Core Series: Route to Code](https://www.youtube.com/watch?v=j-33Uz32hG0)
 * [NET Core 3.1 MVC REST API - Full Course](https://www.youtube.com/watch?v=fmvcAzHpsk8&list=PLpSmZmoBaROZm0ucoQchgBJJ_SyTZWbC0&index=2&t=5001s)
+
+### 🔖 Samples
+
+* [https://github.com/featherhttp/framework](https://github.com/featherhttp/framework)
+* [https://github.com/featherhttp/tutorial](https://github.com/featherhttp/tutorial)
+* [https://github.com/filipw/net50-webapi-samples](https://github.com/filipw/net50-webapi-samples)
+* [https://github.com/ardalis/ApiEndpoints](https://github.com/ardalis/ApiEndpoints)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -437,15 +445,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 * [Web API Versioning in ASP.NET Core – Detailed Guide](https://procodeguide.com/programming/asp-net-core-web-api-versioning/)
 
-### 🔖 Samples
-
-* [https://github.com/featherhttp/framework](https://github.com/featherhttp/framework)
-
-* [https://github.com/featherhttp/tutorial](https://github.com/featherhttp/tutorial)
-
-* [https://github.com/filipw/net50-webapi-samples](https://github.com/filipw/net50-webapi-samples)
-
-* [https://github.com/ardalis/ApiEndpoints](https://github.com/ardalis/ApiEndpoints)
+### 📹 Videoes
+* [Elegant API Versioning in ASP.NET Core (Web API)](https://youtu.be/iVHtKG0eU_s)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
