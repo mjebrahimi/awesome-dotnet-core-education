@@ -2,7 +2,7 @@
 
 ![Twitter URL](https://img.shields.io/badge/-@mehdi_hadeli-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff) 
 [![blog](https://img.shields.io/badge/blog-dotnetuniversity.com-brightgreen?style=flat-square)](https://dotnetuniversity.com/https://dotnetuniversity.com/)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](./contributing.md)
 
 Collection of useful Articles and resources to learning and practicing about .Net Core and its related technologies, this repository will update continuously, keep yourself up to date.
 
@@ -111,9 +111,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### 📹 Videoes
 
-* [Migrating to .NET Core 3 | ASP.NET Core 2.2 & 3 REST API Tutorial 16](https://www.youtube.com/watch?v=gYy5XJRJkOo)
-* [Upgrading to .NET Core 3.1 (Real Life Project)](https://www.youtube.com/watch?v=afyCeCkec4c)
-* [Upgrading to .NET 5.0 RC w/ C# 9.0](https://www.youtube.com/watch?v=ufjtuAel538&t=179s)
+* [Migrating to .NET Core 3 | ASP.NET Core 2.2 & 3 REST API Tutorial 16](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=gYy5XJRJkOo)
+* [Upgrading to .NET Core 3.1 (Real Life Project)](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=afyCeCkec4c)
+* [Upgrading to .NET 5.0 RC w/ C# 9.0](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=ufjtuAel538&t=179s)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -329,10 +329,10 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### Videoes
 
-* [Bidirectional Streaming | gRPC in .NET 5](https://www.youtube.com/watch?v=wY4nMSUF9e0)
-* [Client Streaming | gRPC in .NET 5](https://www.youtube.com/watch?v=DNxdvRQ4qRQ)
-* [gRPC Server & Unary Calls | gRPC in .NET 5](https://www.youtube.com/watch?v=hp5FTB7PI9s&t=0s)
-* [Server Streaming | gRPC in .NET 5](https://www.youtube.com/watch?v=F2T6xNRoa1E&t=0s)
+* [Bidirectional Streaming | gRPC in .NET 5](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=wY4nMSUF9e0)
+* [Client Streaming | gRPC in .NET 5](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=DNxdvRQ4qRQ)
+* [gRPC Server & Unary Calls | gRPC in .NET 5](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=hp5FTB7PI9s&t=0s)
+* [Server Streaming | gRPC in .NET 5](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=F2T6xNRoa1E&t=0s)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
