@@ -148,6 +148,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### 📝 Articles
 
+* [How to serialize and deserialize (marshal and unmarshal) JSON in .NET](https://docs.microsoft.com/en-us/dotnet/standard/serialization/system-text-json-how-to)
+* [How to migrate from Newtonsoft.Json to System.Text.Json](https://docs.microsoft.com/en-us/dotnet/standard/serialization/system-text-json-migrate-from-newtonsoft-how-to)
 * [Polymorphic deserialization with System.Text.Json](https://josef.codes/polymorphic-deserialization-with-system-text-json/)
 
 <div align="right">
